@@ -38,4 +38,5 @@ class Heroi {
   
   heroi1.atacar(); // Saída: O guerreiro atacou usando espada
   heroi2.atacar(); // Saída: O mago atacou usando magia
-  
+  heroi3.atacar(); // Saída: O monge atacou usando artes marciais
+  heroi4.atacar(); // Saída: O ninja atacou usando shuriken
